@@ -1,0 +1,139 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "servicesAndPortfolio": "Services & Portfolio",
+    "whyChooseUs": "Pourquoi Nous",
+    "projectSteps": "Étapes du Projet",
+    "faq": "FAQ",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transformez Votre Son",
+    "subtitle": "Production audio professionnelle, services de voix off et ingénierie sonore. Donnons vie à votre vision créative avec une qualité audio exceptionnelle.",
+    "cta": "Commencer",
+    "demoTitle": "Regarder Notre Démo",
+    "learnMore": "En savoir plus"
+  },
+  "clients": {
+    "title": "Ils nous font confiance",
+    "previous": "Précédent",
+    "next": "Suivant"
+  },
+  "services": {
+    "titleWithPortfolio": "Nos Services & Portfolio",
+    "voiceOver": {
+      "title": "Voix Off: Expressive & Polyvalente",
+      "description": "Du Darija marocain à l'arabe classique, j'insuffle émotion et impact à vos mots. Ma voix versatile offre la tonalité parfaite pour vos publicités, narrations et productions audio.",
+      "buttonText": "DÉCOUVREZ MES EXEMPLES !"
+    },
+    "audioProduction": {
+      "title": "Mixage & Production Sonore: Sublimez Votre Audio",
+      "description": "Transformez vos enregistrements bruts en paysages sonores raffinés. Je crée des expériences audio immersives qui capturent l'essence de votre message et captent l'attention de vos auditeurs.",
+      "buttonText": "EXPLOREZ MES CRÉATIONS !"
+    },
+    "mixingMastering": {
+      "title": "Enregistrement audio: Qualité Sonore Professionnelle",
+      "description": "Capturez un son impeccable dans mon studio acoustiquement optimisé. Équipement professionnel et expertise technique garantissent une qualité exceptionnelle pour votre musique, podcasts et projets vocaux.",
+      "buttonText": "ÉCOUTEZ LA VRAIE QUALITÉ !"
+    }
+  },
+  "whyChooseMe": {
+    "title": "Pourquoi Nous Choisir",
+    "items": {
+      "experience": {
+        "title": "Expérience dans l'Industrie",
+        "description": "Plus d'une décennie d'expérience professionnelle en production audio et ingénierie du son"
+      },
+      "quality": {
+        "title": "Focus sur la Qualité",
+        "description": "Engagés à fournir une qualité audio impeccable et des résultats exceptionnels pour chaque projet"
+      },
+      "turnaround": {
+        "title": "Délais Rapides",
+        "description": "Service rapide et efficace sans compromettre la qualité"
+      },
+      "equipment": {
+        "title": "Équipement Moderne",
+        "description": "Studio à la pointe de la technologie équipé des dernières technologies et d'équipements vintage"
+      }
+    }
+  },
+  "projectSteps": {
+    "title": "Étapes du Projet",
+    "steps": {
+      "consultation": {
+        "title": "Consultation Initiale",
+        "description": "Discussion détaillée de vos exigences et objectifs de projet"
+      },
+      "planning": {
+        "title": "Planification du Projet",
+        "description": "Création d'un plan détaillé et d'un calendrier pour votre projet"
+      },
+      "production": {
+        "title": "Production",
+        "description": "Exécution du projet avec précision et attention aux détails"
+      },
+      "delivery": {
+        "title": "Livraison Finale",
+        "description": "Livraison du produit final avec les révisions demandées"
+      }
+    }
+  },
+  "faq": {
+    "title": "Questions Fréquentes",
+    "questions": {
+      "projects": {
+        "question": "Quels types de projets gérez-vous ?",
+        "answer": "Nous gérons une large gamme de projets audio incluant voix off, production musicale, édition sonore et mixage/mastering pour divers formats médias"
+      },
+      "timeline": {
+        "question": "Combien de temps prend un projet type ?",
+        "answer": "Les délais varient selon la complexité. Les voix off simples peuvent prendre 1-2 jours, tandis que la production d'un album complet peut prendre plusieurs semaines"
+      },
+      "rates": {
+        "question": "Quels sont vos tarifs ?",
+        "answer": "Les tarifs varient selon l'étendue et les exigences du projet. Contactez-nous pour un devis personnalisé adapté à vos besoins spécifiques"
+      },
+      "remote": {
+        "question": "Proposez-vous des services à distance ?",
+        "answer": "Oui, nous proposons des services à distance pour les clients du monde entier, avec des systèmes de communication et de livraison de fichiers fluides"
+      }
+    }
+  },
+  "about": {
+    "title": "À Propos",
+    "description1": "Avec plus d'une décennie d'expérience en production audio professionnelle, nous avons aidé d'innombrables clients à réaliser leur vision sonore. Des voix off pour les grandes marques à la production d'albums complets pour les artistes indépendants, notre expertise couvre tout le spectre audio.",
+    "description2": "Notre studio à la pointe de la technologie est équipé des dernières technologies et d'équipements vintage, nous permettant d'offrir le mélange parfait entre chaleur classique et clarté moderne dans chaque projet.",
+    "stats": {
+      "experience": "Années d'Expérience",
+      "projects": "Projets Réalisés"
+    },
+    "studioImage": "Studio d'enregistrement professionnel"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Prêt à démarrer votre projet ? Contactez-nous dès aujourd'hui.",
+    "getInTouch": "Nous Contacter",
+    "phone": "Téléphone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "address": "Adresse du Studio",
+    "form": {
+      "name": "Nom",
+      "namePlaceholder": "Entrez votre nom",
+      "nameRequired": "Le nom est requis",
+      "email": "Email",
+      "emailPlaceholder": "Entrez votre email",
+      "emailInvalid": "Veuillez entrer un email valide",
+      "services": "Sélectionnez les services (Optionnel)",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-nous de votre projet",
+      "messageRequired": "Le message est requis",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé avec succès !",
+      "error": "Échec de l'envoi. Veuillez réessayer."
+    }
+  }
+}

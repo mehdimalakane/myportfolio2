@@ -1,0 +1,139 @@
+{
+  "nav": {
+    "home": "Home",
+    "servicesAndPortfolio": "Services & Portfolio",
+    "whyChooseUs": "Why Choose Us",
+    "projectSteps": "Project Steps",
+    "faq": "FAQ",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transform Your Sound",
+    "subtitle": "Professional audio production, voice-over services, and sound engineering. Bringing your creative vision to life with pristine audio quality.",
+    "cta": "Get Started",
+    "demoTitle": "Watch Our Demo",
+    "learnMore": "Learn More"
+  },
+  "clients": {
+    "title": "Trusted by Industry Leaders",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "services": {
+    "titleWithPortfolio": "Our Services & Portfolio",
+    "voiceOver": {
+      "title": "Voice Over: Expressive & Versatile",
+      "description": "From Moroccan Darija to Classical Arabic, I bring authentic emotion and impact to your words. My versatile voice delivers the perfect tone for your commercials, narrations, and audio productions.",
+      "buttonText": "DISCOVER MY SAMPLES!"
+    },
+    "audioProduction": {
+      "title": "Sound Mixing & Production: Elevate Your Audio",
+      "description": "Transform raw recordings into polished soundscapes. I craft immersive audio experiences that capture your message's essence and engage listeners on a deeper level.",
+      "buttonText": "EXPLORE MY CREATIONS!"
+    },
+    "mixingMastering": {
+      "title": "Audio Recording: Professional Sound Quality",
+      "description": "Capture flawless audio in my acoustically optimized studio. Professional equipment and technical expertise ensure exceptional quality for your music, podcasts, and voice projects.",
+      "buttonText": "LISTEN TO TRUE QUALITY!"
+    }
+  },
+  "whyChooseMe": {
+    "title": "Why Choose Us",
+    "items": {
+      "experience": {
+        "title": "Industry Experience",
+        "description": "Over a decade of professional experience in audio production and sound engineering"
+      },
+      "quality": {
+        "title": "Quality Focus",
+        "description": "Committed to delivering pristine audio quality and exceptional results for every project"
+      },
+      "turnaround": {
+        "title": "Quick Turnaround",
+        "description": "Fast and efficient service without compromising on quality"
+      },
+      "equipment": {
+        "title": "Modern Equipment",
+        "description": "State-of-the-art studio equipped with the latest technology and vintage gear"
+      }
+    }
+  },
+  "projectSteps": {
+    "title": "Project Steps",
+    "steps": {
+      "consultation": {
+        "title": "Initial Consultation",
+        "description": "Discuss your project requirements and objectives in detail"
+      },
+      "planning": {
+        "title": "Project Planning",
+        "description": "Create a detailed plan and timeline for your project"
+      },
+      "production": {
+        "title": "Production",
+        "description": "Execute the project with precision and attention to detail"
+      },
+      "delivery": {
+        "title": "Final Delivery",
+        "description": "Deliver the polished final product with any requested revisions"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": {
+      "projects": {
+        "question": "What types of projects do you handle?",
+        "answer": "We handle a wide range of audio projects including voice-overs, music production, sound editing, and mixing/mastering for various media formats"
+      },
+      "timeline": {
+        "question": "How long does a typical project take?",
+        "answer": "Project timelines vary depending on complexity. Simple voice-overs might take 1-2 days, while full album production could take several weeks"
+      },
+      "rates": {
+        "question": "What are your rates?",
+        "answer": "Rates vary based on project scope and requirements. Contact us for a custom quote tailored to your specific needs"
+      },
+      "remote": {
+        "question": "Do you offer remote services?",
+        "answer": "Yes, we offer remote services for clients worldwide, with seamless communication and file delivery systems in place"
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description1": "With over a decade of experience in professional audio production, we've helped countless clients achieve their sonic vision. From voice-over work for major brands to full album production for independent artists, our expertise spans the entire audio spectrum.",
+    "description2": "Our state-of-the-art studio is equipped with the latest technology and vintage equipment, allowing us to deliver the perfect blend of classic warmth and modern clarity in every project.",
+    "stats": {
+      "experience": "Years Experience",
+      "projects": "Projects Completed"
+    },
+    "studioImage": "Professional recording studio"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Ready to start your project? Get in touch with us today.",
+    "getInTouch": "Get in Touch",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "address": "Studio Address",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Enter your name",
+      "nameRequired": "Name is required",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "emailInvalid": "Please enter a valid email",
+      "services": "Select Services (Optional)",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your project",
+      "messageRequired": "Message is required",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    }
+  }
+}
